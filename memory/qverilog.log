@@ -1,0 +1,5 @@
+Start time: 14:34:37 on Mar 07,2025
+qverilog driver.sv 
+** Error: (qverilog-13069) driver.sv(15): near ";": syntax error, unexpected ';', expecting '('.
+End time: 14:34:37 on Mar 07,2025, Elapsed time: 0:00:00
+Errors: 1, Warnings: 0
